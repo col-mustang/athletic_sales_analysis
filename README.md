@@ -58,3 +58,7 @@ Starter code ("athletic_sales_analysis_starter_code.jpynb) and sales data for 20
 5. The final table, showing the top 10 weeks looks like the following image:
 
     <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-weekly-womens-footwear-sales.png" alt="image" width="25%" height="25%">
+
+## Authored by:
+- edX AI Boot Camp - "athletic_sales_analysis_starter_code.jpynb
+- Geoff McDaniel - "athletic_sales_analysis_solution_code.jpynb
