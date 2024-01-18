@@ -22,18 +22,21 @@ Starter code ("athletic_sales_analysis_starter_code.jpynb) and sales data for 20
 1. Use both the groupby and pivot_table function to create a multi-index DataFrame with the "region", "state", and "city" columns.
 2. Rename the aggregated column to reflect the aggregation of the data in the column.
 3. Sort the results in ascending order to show the top five regions, including the state and city that have the greatest number of products sold. The final table looks like the following image:
+
     <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-greatest-number-products.png" alt="image" width="50%" height="50%">
 
 ## Determine which Region had the Most Sales
 1. Use both the groupby and pivot_table function to create a multi-index DataFrame with the "region", "state", and "city" columns.
 2. Rename the aggregated column to reflect the aggregation of the data in the column.
 3. Sort the results in ascending order to show the top five regions, including the state and city that generated the most sales. The final table looks like the following image:
+
     <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-most-sales.png" alt="image" width="50%" height="50%">
 
 ## Determine which Retailer had the Most Sales
 1. Use both the groupby and pivot_table function to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns.
 2. Rename the aggregated column to reflect the aggregation of the data in the column.
 3. Sort the results in ascending order to show the top five retailers along with their region, state, and city that generated the most sales. The final table looks like the following image:
+
     <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-most-sales-by-retailer.png" alt="image" width="50%" height="50%">
 
 ## Determine which Retailer Sold the Most Women's Athletic Footwear
@@ -41,6 +44,7 @@ Starter code ("athletic_sales_analysis_starter_code.jpynb) and sales data for 20
 2. Use both the groupby and pivot_table function to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns.
 3. Rename the aggregated column to reflect the aggregation of the data in the column.
 4. Sort the results in ascending order to show the top five retailers along with their region, state, and city that sold the most women's athletic footwear. The final table looks like the following image:
+
     <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-most-womens-footwear-sold-retailer.png" alt="image" width="50%" height="50%">
 
 ## Determine the Day and Week with the Most Women's Athletic Footwear Sales
