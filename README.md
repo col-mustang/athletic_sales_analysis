@@ -45,7 +45,7 @@ Starter code ("athletic_sales_analysis_starter_code.jpynb) and sales data for 20
 3. Rename the aggregated column to reflect the aggregation of the data in the column.
 4. Sort the results in ascending order to show the top five retailers along with their region, state, and city that sold the most women's athletic footwear. The final table looks like the following image:
 
-    <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-most-womens-footwear-sold-retailer.png" alt="image" width="50%" height="50%">
+    <img src="https://static.bc-edx.com/ai/ail-v-1-0/m5/lms/img/M5-most-womens-footwear-sold-retailer.png" alt="image" width="70%" height="70%">
 
 ## Determine the Day and Week with the Most Women's Athletic Footwear Sales
 1. Create a pivot table with the "invoice_date" column as the index and the "total_sales" column as the values parameter.
